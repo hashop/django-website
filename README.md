@@ -34,3 +34,8 @@ Use to create new app.
 ```bash
 python manage.py startapp newappname
 ```
+
+## To Do:
+* Add/Create theme
+* Customize
+* Design modularized components
